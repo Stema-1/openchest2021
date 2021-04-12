@@ -229,10 +229,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/openChest_demo3_each click v5_atlas_1.png", id:"openChest_demo3_each click v5_atlas_1"},
-		{src:"images/openChest_demo3_each click v5_atlas_2.png", id:"openChest_demo3_each click v5_atlas_2"},
-		{src:"images/openChest_demo3_each click v5_atlas_3.png", id:"openChest_demo3_each click v5_atlas_3"},
-		{src:"images/openChest_demo3_each click v5_atlas_4.png", id:"openChest_demo3_each click v5_atlas_4"}
+		{src:"images/openChest_demo3_each click v5_atlas_1.png?1618225945796", id:"openChest_demo3_each click v5_atlas_1"},
+		{src:"images/openChest_demo3_each click v5_atlas_2.png?1618225945796", id:"openChest_demo3_each click v5_atlas_2"},
+		{src:"images/openChest_demo3_each click v5_atlas_3.png?1618225945796", id:"openChest_demo3_each click v5_atlas_3"},
+		{src:"images/openChest_demo3_each click v5_atlas_4.png?1618225945796", id:"openChest_demo3_each click v5_atlas_4"}
 	],
 	preloads: []
 };
